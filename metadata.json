@@ -1,0 +1,6 @@
+{
+  "name": "Student Excel Analytics & Record Management",
+  "description": "AI-powered student Excel data analysis, multi-term record updates, performance prediction, and automated multi-sheet Excel generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
